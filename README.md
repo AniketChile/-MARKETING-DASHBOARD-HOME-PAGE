@@ -151,18 +151,10 @@ This file contains KPIs, chart data, campaign data, and more.
 
 ## 📸 Screenshots
 
-*(Add screenshots here after running the project)*
-
-Example:
-
-```
 <img width="1352" height="311" alt="image" src="https://github.com/user-attachments/assets/f2f0f3c7-6cc9-412b-9504-2d31d168424d" />
 <img width="1351" height="351" alt="image" src="https://github.com/user-attachments/assets/a319267c-f025-447d-bfd9-1e2bf644966e" />
 <img width="1351" height="534" alt="image" src="https://github.com/user-attachments/assets/c16820e4-55cb-4a15-800e-8ab31d4b90df" />
 
-```
-
----
 ---
 
 ## 📄 License
