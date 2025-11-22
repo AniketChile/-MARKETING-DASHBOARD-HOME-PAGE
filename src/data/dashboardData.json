@@ -1,0 +1,112 @@
+{
+    "kpis": [
+        {
+            "label": "Impressions",
+            "value": "1.2M",
+            "trend": "+12%"
+        },
+        {
+            "label": "Clicks",
+            "value": "82K",
+            "trend": "+5%"
+        },
+        {
+            "label": "CTR %",
+            "value": "4.8%",
+            "trend": "+1.2%"
+        },
+        {
+            "label": "Leads",
+            "value": "3,420",
+            "trend": "-3%"
+        },
+        {
+            "label": "Conversion Rate %",
+            "value": "2.3%",
+            "trend": "+0.4%"
+        },
+        {
+            "label": "Ad Spend",
+            "value": "36,400 ₹",
+            "trend": "-1%"
+        }
+    ],
+    "lineChart": [
+        {
+            "date": "Mon",
+            "sessions": 400,
+            "leads": 24
+        },
+        {
+            "date": "Tue",
+            "sessions": 650,
+            "leads": 32
+        },
+        {
+            "date": "Wed",
+            "sessions": 500,
+            "leads": 28
+        },
+        {
+            "date": "Thu",
+            "sessions": 700,
+            "leads": 42
+        },
+        {
+            "date": "Fri",
+            "sessions": 900,
+            "leads": 55
+        }
+    ],
+    "barChart": [
+        {
+            "channel": "Google",
+            "value": 400
+        },
+        {
+            "channel": "Meta",
+            "value": 320
+        },
+        {
+            "channel": "LinkedIn",
+            "value": 200
+        },
+        {
+            "channel": "Twitter",
+            "value": 150
+        }
+    ],
+    "deviceSplit": [
+        {
+            "name": "Mobile",
+            "value": 70
+        },
+        {
+            "name": "Desktop",
+            "value": 30
+        }
+    ],
+    "topCampaigns": [
+        {
+            "title": "Campaign A",
+            "metric": "12,000 impressions"
+        },
+        {
+            "title": "Campaign B",
+            "metric": "9,400 impressions"
+        },
+        {
+            "title": "Campaign C",
+            "metric": "7,200 impressions"
+        }
+    ],
+    "activities": [
+        "Updated Ad Spend",
+        "Added new campaign",
+        "Modified targeting settings"
+    ],
+    "alerts": [
+        "Lead conversion dropped by 3%",
+        "Meta CPC increased 12%"
+    ]
+}
