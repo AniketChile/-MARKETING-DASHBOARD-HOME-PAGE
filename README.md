@@ -51,10 +51,6 @@ Displays key marketing metrics using dummy values:
 * Recent activities
 * Alerts
 
-### 📝 **Optional Feature (Not Implemented): Filters**
-
-The assignment mentioned optional filters (date range, channel, device).
-These were **not required**, so they are **not included** in this version.
 
 ---
 
