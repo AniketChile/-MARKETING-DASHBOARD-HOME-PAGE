@@ -21,7 +21,7 @@ This project was developed as part of an assignment and demonstrates UI layout s
 Example:
 
 ```
-https://your-dashboard-demo.netlify.app/
+[https://your-dashboard-demo.netlify.app/](https://marketingdashboardasc.netlify.app/)
 ```
 
 ---
