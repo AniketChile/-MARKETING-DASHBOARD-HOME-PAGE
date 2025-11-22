@@ -1,11 +1,3 @@
-Great — I will generate a **professional README.md** for your GitHub repo:
-
-🔗 **Repo:** `https://github.com/AniketChile/-MARKETING-DASHBOARD-HOME-PAGE`
-🎯 **Tech:** React + Vite + Tailwind + Recharts
-📌 **Filters optional (not implemented)** — I will mention this clearly.
-
-Here is your **copy-paste-ready README.md**:
-
 ---
 
 # 📊 Marketing Dashboard – Home Page
@@ -16,9 +8,6 @@ This project was developed as part of an assignment and demonstrates UI layout s
 ---
 
 ## 🚀 Live Demo
-
-*(Add your deployed link here if you deploy on Netlify / Vercel)*
-Example:
 
 ```
 https://marketingdashboardasc.netlify.app/
@@ -167,15 +156,13 @@ This file contains KPIs, chart data, campaign data, and more.
 Example:
 
 ```
-/screenshots/dashboard.png
+<img width="1352" height="311" alt="image" src="https://github.com/user-attachments/assets/f2f0f3c7-6cc9-412b-9504-2d31d168424d" />
+<img width="1351" height="351" alt="image" src="https://github.com/user-attachments/assets/a319267c-f025-447d-bfd9-1e2bf644966e" />
+<img width="1351" height="534" alt="image" src="https://github.com/user-attachments/assets/c16820e4-55cb-4a15-800e-8ab31d4b90df" />
+
 ```
 
 ---
-
-## 🤝 Contributing
-
-Pull requests are welcome. For major changes, please open an issue first to discuss what you'd like to improve.
-
 ---
 
 ## 📄 License
